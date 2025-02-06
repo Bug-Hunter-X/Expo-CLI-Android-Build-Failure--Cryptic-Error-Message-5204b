@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK.  The build process fails with a cryptic error message, often related to missing dependencies or incorrect configurations. The error message itself is unhelpful, and debugging it requires investigating various build files and configurations.
